@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Azure-Service-Bus-Topics-dotnetcore/v16
+/CoreReceiverApp/bin/Debug/netcoreapp3.1
+/CoreReceiverApp/obj
+/CoreSenderApp/obj
+/CoreSenderApp/bin/Debug/netcoreapp3.1
